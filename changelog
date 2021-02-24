@@ -1,0 +1,10 @@
+[ general ]
+[ content ]
+	- inital commit
+	- create, delete and join channels
+	- manage channel data
+	- manage blacklists
+	- help
+	- rps
+[ fixes ]
+[ misc ]
